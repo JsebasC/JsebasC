@@ -1,6 +1,6 @@
 <!-- <p align="center"><img width="200px" height="auto" src="sapito.jpeg" height="175px"/></p> -->
 
-<p align="center"><img width="150" height="auto" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="100"/></p>
+<!--<p align="center"><img width="150" height="auto" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="100"/></p>-->
 <h1 align="center">Hi👋, I'm Johan</h1>
 
 <div id="header" align="center">
